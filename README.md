@@ -21,4 +21,4 @@ https://github.com/tristandeleu/jax-dag-gflownet
 
 We do not provide the ensembles of models for this task, as the files are prohibitively large, but we provide the training scripts needed to train them yourself.
 
-The pyproject.toml contains the necessary Python libraries and versions needed to run this code, with the exception that JAX is needed to train the models from Deleue et al.
+The pyproject.toml contains the necessary Python libraries and versions needed to run this code, with the exception that JAX is needed to train the models from Deleu et al.
